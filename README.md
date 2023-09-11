@@ -7,7 +7,7 @@ Venmo is incorporated in 2009, it is later owned by PayPal in 2013. *Andrew Kort
 Venmo received 1.2 million through seed funding by *RRR Venture*. Some other investors include betaworks, lerer Ventures, Founder Collective, and the angel investors like Dustin Moskovitz, Dave Morin and, Sam Lessin.
 
 -
-![]()>![Alt text](venmo-1.png)
+![Alt text](venmo-1.png)
 
 ## Business Activities
 Venmo is based on consumer needs, it facilitates digital payments in their social network, digital payments include instant transfer, and payments. Initially, Venmo’s intended customer were family and friends, now it is designed for individuals who know and trust each other. Currently, Venmo has 83 Million users and top 80% US retailers accept Venmo payment. It do not charge any fee for instant transfer, and payments. It also allows to hold balance in Wallet function and its interface is user friendly whereas, its competitors charge transfer fee, do not facilitate digital wallet, and takes time to process transaction. Venmo covers full unauthorized payments as long as it is notified within 60 days.
