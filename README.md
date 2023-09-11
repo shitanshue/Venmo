@@ -15,7 +15,7 @@ Venmo is based on consumer needs, it facilitates digital payments in their socia
 Venmo is currently using multiple technologies. As per the Stackshare, the technologies that Venmo is using are;
 
 -
-![Alt text](https://stackshare.io/venmo/venmo)
+![Alt text](https://cdn.mos.cms.futurecdn.net/6CxoY5QgSBRJZV3QFgAQDW.jpg)
 
  **JavaScript** - Lightweight, interpreted, object-oriented language with first-class functions.
 
@@ -97,7 +97,7 @@ There are other companies that use *Peer-to-Peer* payment, such as Zelle, Cash A
 ## Results
  Venmo is one of the best Fintech Companies in this decade, it has grew from 3 million to 83 million users. Digital payments has become popular. Smartphone is the key to digital payments and Venmo took this in an innovative way. Venmo built a mobile application which is more convenient and user friendly for making online payments.
 
- ![] >![Alt text](<Venmo data-1.png>)
+ ![] >![Alt text](https://d2908q01vomqb2.cloudfront.net/887309d048beef83ad3eabf2a79a64a389ab1c9f/2022/11/17/Venmo-Payments-Chart.png)
 
  
 Paypal acquired Venmo in 2013, and its current valuation is $38 billion. Venmo facilitates digital payments, that includes instant transfer, and electronic payments with no fee.
