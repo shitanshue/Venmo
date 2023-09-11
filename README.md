@@ -97,7 +97,7 @@ There are other companies that use *Peer-to-Peer* payment, such as Zelle, Cash A
 ## Results
  Venmo is one of the best Fintech Companies in this decade, it has grew from 3 million to 83 million users. Digital payments has become popular. Smartphone is the key to digital payments and Venmo took this in an innovative way. Venmo built a mobile application which is more convenient and user friendly for making online payments.
 
- ![] > ![Alt text](<1684748974-Screenshot 2023-05-22 104849.webp>)
+ ![] > ![Alt text](<Venmo data.png>)
 
  
 Paypal acquired Venmo in 2013, and its current valuation is $38 billion. Venmo facilitates digital payments, that includes instant transfer, and electronic payments with no fee.
