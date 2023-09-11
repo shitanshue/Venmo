@@ -7,7 +7,7 @@ Venmo is incorporated in 2009, it is later owned by PayPal in 2013. *Andrew Kort
 Venmo received 1.2 million through seed funding by *RRR Venture*. Some other investors include betaworks, lerer Ventures, Founder Collective, and the angel investors like Dustin Moskovitz, Dave Morin and, Sam Lessin.
 
 -
-![]()>![Alt text](image.png)
+![]()>![Alt text](venmo-1.png)
 
 ## Business Activities
 Venmo is based on consumer needs, it facilitates digital payments in their social network, digital payments include instant transfer, and payments. Initially, Venmo’s intended customer were family and friends, now it is designed for individuals who know and trust each other. Currently, Venmo has 83 Million users and top 80% US retailers accept Venmo payment. It do not charge any fee for instant transfer, and payments. It also allows to hold balance in Wallet function and its interface is user friendly whereas, its competitors charge transfer fee, do not facilitate digital wallet, and takes time to process transaction. Venmo covers full unauthorized payments as long as it is notified within 60 days.
@@ -15,7 +15,7 @@ Venmo is based on consumer needs, it facilitates digital payments in their socia
 Venmo is currently using multiple technologies. As per the Stackshare, the technologies that Venmo is using are;
 
 -
-![]()>![Alt text](<Screenshot 2023-09-06 153808.png>)
+![]()>![Alt text](<Screenshot 2023-09-06 153808-1.png>)
 
  **JavaScript** - Lightweight, interpreted, object-oriented language with first-class functions.
 
@@ -97,7 +97,7 @@ There are other companies that use *Peer-to-Peer* payment, such as Zelle, Cash A
 ## Results
  Venmo is one of the best Fintech Companies in this decade, it has grew from 3 million to 83 million users. Digital payments has become popular. Smartphone is the key to digital payments and Venmo took this in an innovative way. Venmo built a mobile application which is more convenient and user friendly for making online payments.
 
- ![] > ![Alt text](<Venmo data.png>)
+ ![] >![Alt text](<Venmo data-1.png>)
 
  
 Paypal acquired Venmo in 2013, and its current valuation is $38 billion. Venmo facilitates digital payments, that includes instant transfer, and electronic payments with no fee.
