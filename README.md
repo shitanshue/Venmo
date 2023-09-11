@@ -151,4 +151,10 @@ Venmo – Winning a Larger Share of Consumers Wallet. (n.d.). Digital Innovation
 
 ‌Haverstock, E. (n.d.). The 11 Biggest Fintech Companies In America 2021. Forbes. Retrieved September 10, 2023, from https://www.forbes.com/sites/elizahaverstock/2021/06/08/the-11-biggest-fintech-companies-in-america-2021/?sh=2072785b4f13
 
-‌
+Venmo Logo and symbol, meaning, history, PNG. (n.d.). https://1000logos.net/venmo-logo/
+
+‌(2023). Futurecdn.net. https://cdn.mos.cms.futurecdn.net/6CxoY5QgSBRJZV3QFgAQDW.jpg
+
+‌(2023). Cloudfront.net. https://d2908q01vomqb2.cloudfront.net/887309d048beef83ad3eabf2a79a64a389ab1c9f/2022/11/17/Venmo-Payments-Chart.png
+
+‌‌
