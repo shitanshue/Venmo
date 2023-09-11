@@ -15,7 +15,7 @@ Venmo is based on consumer needs, it facilitates digital payments in their socia
 Venmo is currently using multiple technologies. As per the Stackshare, the technologies that Venmo is using are;
 
 -
-![]()>![Alt text](<Screenshot 2023-09-06 153808-1.png>)
+![]()>![Alt text](https://stackshare.io/venmo/venmo)
 
  **JavaScript** - Lightweight, interpreted, object-oriented language with first-class functions.
 
